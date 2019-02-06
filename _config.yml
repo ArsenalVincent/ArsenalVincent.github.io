@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+deploy:
+  type:git
+  repository:git@github.com:ArsenalVincent/ArsenalVincent.github.io.git
+branch:master  
